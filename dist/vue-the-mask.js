@@ -32,8 +32,8 @@
       }, t.p = ".", t(t.s = 10)
   }([function(e, t) {
       e.exports = {
-          "+": {
-              pattern: /[\-\+]/
+          "-": {
+              pattern: /[\-\s]/
           },
           "#": {
               pattern: /\d/
